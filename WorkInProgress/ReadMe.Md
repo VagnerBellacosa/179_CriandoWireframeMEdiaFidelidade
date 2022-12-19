@@ -11,7 +11,8 @@
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando um Wireframe de Média Fidelidade](https://web.dio.me/lab/criando-um-wireframe-de-media-fidelidade/learning/8952faf6-c2ec-49c2-b9e0-346ddb2cb5ff)[Entendendo o Desafio](https://web.dio.me/lab/criando-um-wireframe-de-media-fidelidade/learning/9ba752d5-e4ec-48d2-8dd6-c8a50dcfa44a)
+- [Criando um Wireframe de Média Fidelidade](https://web.dio.me/lab/criando-um-wireframe-de-media-fidelidade/learning/8952faf6-c2ec-49c2-b9e0-346ddb2cb5ff)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-um-wireframe-de-media-fidelidade/learning/9ba752d5-e4ec-48d2-8dd6-c8a50dcfa44a)
 
 
 
